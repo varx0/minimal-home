@@ -3,7 +3,7 @@
 
 A simple startpage for any browser that support a custom startpage. On small screens, the grid changes to 3x1 or 2x2 but the intention of this program is to work on a screen with a <720p display.
 
-![Preview](prev/startpage.png "Screenshot 1")
+![Preview](Screenshot_2020-07-14 ~.png "Screenshot 1")
 
 
 ### Features
